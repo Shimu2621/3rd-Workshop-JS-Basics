@@ -27,3 +27,4 @@ console.log('The total length of string is:', sentence.length)
 
 const text2 = "Hello, World";
 console.log(text2.split(" "))
+//Split a string into substrings using the specified separator and return them as an array.

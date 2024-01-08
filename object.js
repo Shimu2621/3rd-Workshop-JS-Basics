@@ -36,3 +36,5 @@ console.log(calculater.decimil(20, 2))
 
 
 
+
+

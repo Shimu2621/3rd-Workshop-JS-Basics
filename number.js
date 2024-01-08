@@ -19,4 +19,5 @@ let numbers = 202.6535235;
 console.log(numbers.toFixed(2))// string representing a number in fixed-point notation 2 number of digits after the decimal point. 
 
 let number = 1.543278;
-console.log(Math.random())
+console.log(Math.random())// this substring shows different number rendommy in different time.
+
